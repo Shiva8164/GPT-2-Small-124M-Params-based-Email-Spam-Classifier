@@ -28,6 +28,4 @@ Plots:
 ![Accuracy](accuracy-plot.pdf)  
 ![Loss](loss-plot.pdf)  
 
----
 
-## 📂 Project Structure
